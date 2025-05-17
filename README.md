@@ -23,4 +23,4 @@ An AI-powered tool that helps users extract answers from the official TÜBİTAK 
 
 ```bash
 pip install -r requirements.txt
-> 💡 Geliştirme süreci Jupyter Notebook ile yapılmış olup, güvenlik nedeniyle notebook dosyası paylaşıma dahil edilmemiştir.
+💡 The development process was carried out using Jupyter Notebook, but the notebook file is not included in the repository due to security reasons.
