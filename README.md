@@ -16,11 +16,12 @@ An AI-powered tool that helps users extract answers from the official TÜBİTAK 
 - OpenAI API
 - pdfplumber
 
-## 💻 Run Locally
+## 🖥️ Run Locally
 
-1. Clone the repository
+1. Clone the repository  
 2. Install required packages:
 
 ```bash
 pip install -r requirements.txt
-💡 The development process was carried out using Jupyter Notebook, but the notebook file is not included in the repository due to security reasons.
+> 💡 The development process was carried out using Jupyter Notebook, but the notebook file is not included in the repository due to security reasons.
+
